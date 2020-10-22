@@ -2,6 +2,8 @@ import javax.swing.JFrame;
 
 public class Main {
 	
+	//Testkommentar
+	
 	static int frameHeight = 700;
 	static int frameWidth = 700;
 	
